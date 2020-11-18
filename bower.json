@@ -1,12 +1,12 @@
 {
-  "name": "qtumcore-lib",
-  "main": "./qtumcore-lib.min.js",
+  "name": "zeocore-lib",
+  "main": "./zeocore-lib.min.js",
   "version": "0.0.1",
-  "homepage": "http://qtum.org",
+  "homepage": "http://zeo.org",
   "authors": [
-    "QTUM <foundation@qtum.org>"
+    "ZEO <foundation@zeo.org>"
   ],
-  "description": "A pure, powerful core for your qtum project.",
+  "description": "A pure, powerful core for your zeo project.",
   "moduleType": [
     "globals"
   ],
